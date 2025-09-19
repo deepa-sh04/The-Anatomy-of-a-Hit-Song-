@@ -18,6 +18,8 @@
 - Handling missing values is crucial before modeling.
 - How to read a correlation heatmap for feature selection.
 - Why train/test splitting prevents overfitting.
+### heat map
+<img width="909" height="688" alt="image" src="https://github.com/user-attachments/assets/8a6943fd-d02a-476d-8bb7-abba97bcb1ca" />
 
 ## 💻 Code
 ```python
@@ -42,6 +44,9 @@ numeric_features = [
     'valence_%','energy_%','acousticness_%','instrumentalness_%',
     'liveness_%','speechiness_%'
 ]
+
+
+
 
 corr_matrix = df[numeric_features].corr()
 
