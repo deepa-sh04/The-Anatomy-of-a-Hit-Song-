@@ -25,8 +25,4 @@
 - Importance of correct file paths
 - Getting familiar with the dataset: number of columns, missing values
 
-**Next Steps**
-- Clean missing values (drop or impute)
-- Explore distribution of numeric features
-- Plot histograms & boxplots
 <img width="905" height="688" alt="image" src="https://github.com/user-attachments/assets/93140d4a-68cb-4905-b4cb-1658e2eae6f0" />
