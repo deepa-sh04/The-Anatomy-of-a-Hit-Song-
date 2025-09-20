@@ -19,6 +19,8 @@ I pivoted to a more focused problem:
 
 - Applied **data scaling** and **stratified sampling** to handle class imbalance.  
 - This approach produced a **much more stable and accurate model**.
+- ![EDA Heatmap](heatmap.jpg)
+
 
 ---
 
