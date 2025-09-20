@@ -36,6 +36,7 @@ I pivoted to a more focused problem:
 ## 🎯 Final Model Results  
 - **Accuracy:** 60%  
 - **Recall for hit songs:** 94% (strong ability to identify actual hits)
+- ![EDA Heatmap](accuracy_model.jpg)
 
 ---
 
